@@ -5,7 +5,7 @@ header {
 }
 
 .logo {
-    background: url ("../images/rachel.jpg");
+    background: url("../images/rachel.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
